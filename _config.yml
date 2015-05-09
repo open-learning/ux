@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Foundation
-description: "The Open Learning Foundation"
+title: Campus
+description: "The Open Learning Campus"
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale:
-url: http://open-learning.org/foundation
+url: http://open-learning.org/campus
 
 # Jekyll configuration
 
@@ -22,8 +22,8 @@ gems:
 
 # Site owner
 owner:
-  name: Open Learning Foundation
-  email: foundation@open-learning.org
+  name: Open Learning Campus
+  email: campus@open-learning.org
   avatar: bio-photo.jpg
   twitter: open-learning
   github: open-learning
