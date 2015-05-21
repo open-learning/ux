@@ -1,15 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Open-Learning Campus"
+title: "Open-Learning User Experience"
 ---
-Campus is a public open-learning ecosystem operated by the [open-learning foundation](/foundation).
+This is the place where the @open-learning/ux team keeps their materials and organizes their efforts.
 
-# Services
-
-- [open-learning `profile`](//github.com/open-learning/profile)
-- [open-learning `pulse`](//github.com/open-learning/pulse)
-- [open-learning `react`](//github.com/open-learning/react)
-- [open-learning `memory`](//github.com/open-learning/memory)
-- [open-learning `academy`](//github.com/open-learning/academy)
-- [open-learning `bazaar`](//github.com/open-learning/bazaar)

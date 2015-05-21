@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Campus
-description: "The Open Learning Campus"
+title: User Experience
+description: "Open-Learning User Experience"
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale:
-url: http://open-learning.org/campus
+url: http://open-learning.org/ux
 
 # Jekyll configuration
 
@@ -22,8 +22,8 @@ gems:
 
 # Site owner
 owner:
-  name: Open Learning Campus
-  email: campus@open-learning.org
+  name: Open-Learning UX
+  email: ux@open-learning.org
   avatar: bio-photo.jpg
   twitter: open-learning
   github: open-learning
