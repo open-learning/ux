@@ -1,4 +1,16 @@
 # Footer navigation links
 
-- title:
-  url:
+- title: Manifesto
+  url: /../manifesto
+
+- title: Council
+  url: /../council
+
+- title: PR
+  url: /../pr
+
+- title: Tech
+  url: /../tech
+
+- title: UX
+  url: /../ux
